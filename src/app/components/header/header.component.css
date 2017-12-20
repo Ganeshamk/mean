@@ -1,0 +1,37 @@
+.header {
+  height: 70px !important;
+  background-color: rebeccapurple;
+  width: 100%;
+}
+
+.logo {
+  height: 75px;
+  margin-top: 18px;
+}
+
+.item-list {
+  margin-top: 25px;
+}
+
+.item {
+  font-size:15px !important;
+}
+
+.item.home {
+float: left;
+}
+
+.item.login {
+  float: right;
+  margin-right: 20px;
+}
+
+.item.logout {
+  float: right;
+  margin-right: 50px;
+}
+
+.item:hover {
+  color:rgb(51, 23, 150);
+  cursor: pointer;
+}

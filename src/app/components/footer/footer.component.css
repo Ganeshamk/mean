@@ -1,0 +1,9 @@
+.fixed-bottom {
+  height: 50px;
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  background-color: black;
+  padding-top: 13px;
+  text-align: -webkit-center;
+}
